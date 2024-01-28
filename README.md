@@ -33,8 +33,19 @@ I am a Data Scientist from Russia.
 
 - :zap: In my free time I solve problems on Leetcode and work on my own projects.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/msplit)
-
+- :mailbox:How to reach me:
+  
+<div id="badges">
+  <a href="https://vk.com/m_split">
+  <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://t.me/msplit">
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://e.mail.ru/compose/?to=ilya_kurbakov@mail.ru">
+  <img src="https://img.shields.io/badge/mail.ru-blue?logo=mail.ru&logoColor=white&style=for-the-badge" />
+  </a>
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
