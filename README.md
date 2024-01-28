@@ -22,7 +22,9 @@ Hey there
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <br>
+
 ### :man_technologist: About Me :
+
 I am a Data Scientist from Russia.
 
 - :telescope: I want to work as a data scientist and participate in the development of models to solve various problems and improve processes.
@@ -52,3 +54,11 @@ I am a Data Scientist from Russia.
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pycharm/pycharm-original.svg" title="PyCharm"  alt="PyCharm" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MSplit8&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSplit8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
