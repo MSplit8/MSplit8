@@ -14,7 +14,7 @@
   </a>
 </div>
 <h1>
-Hey there, I'm Ilya
+Привет, Я Илья
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -23,17 +23,17 @@ Hey there, I'm Ilya
 </div>
 <br>
 
-### :man_technologist: About Me :
+### :man_technologist: Обо мне :
 
-I am a Data Scientist from Russia.
+Я Data Scientist 
 
-- :telescope: I want to work as a data scientist and participate in the development of models to solve various problems and improve processes.
+- :telescope: Я имею некомерческий опыт работы в области анализа данных и машинного обучения (CV, NLP).
 
-- :seedling: Worked with the smart home system, programmed controllers.
+- :seedling: Я имею высшее техническое образование по направлению "Ядерная физика и технологии".
 
-- :zap: In my free time I solve problems on Leetcode and work on my own projects.
+- :zap: В свободное время я решаю задачи на Leetcode и Kaggle, и работаю над своими проектами.
 
-- :mailbox:How to reach me:
+- :mailbox: Как со мной связаться:
   
 <div id="badges">
   <a href="https://vk.com/m_split">
@@ -48,7 +48,7 @@ I am a Data Scientist from Russia.
   
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Основные инструменты, которыми я владею :
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
@@ -67,7 +67,7 @@ I am a Data Scientist from Russia.
 
 ---
 
-### :fire: My Stats :
+### :fire: Моя статистика :
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSplit8&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MSplit8&theme=2077)
